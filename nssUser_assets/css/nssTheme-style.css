@@ -1,0 +1,60 @@
+/* 
+    Created on : Aug 28, 2016, 12:39:11 PM
+    Author     : Saiful
+    email      : nsstheme@gmail.com
+    copyRight by Nsstheme
+*/
+.nssTheme-form-creator {
+    width: 800px;
+    margin: 0 auto;
+}
+#nssTheme_registration_form input{
+    padding:15px;
+    width: 100%;
+}
+#nssTheme_registration_form label{
+    line-height: 30px;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #000;
+}
+#nssTheme_registration_form input[type="submit"]{
+    width: auto;
+    padding: 18px 25px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin: 0;
+}
+#nssTheme_registration_form .error{
+    color:#c00;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.1;
+    text-transform: capitalize;
+    padding: 0px;
+    margin: 0px;
+}
+h3.nssTheme_header {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 4px;
+    text-transform: capitalize;
+}
+/*alert*/
+.nssSumbit_view{
+    color:#111;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: capitalize;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #111;
+}
+.welcome_msg{
+    font-size: 23px;
+    color:#888;
+    text-transform: capitalize;
+}
